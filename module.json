@@ -1,0 +1,17 @@
+{
+  "name": "sta-bridge",
+  "title": "Star Trek Adventures - mostek",
+  "description": "Mostek statku kosmicznego dla gry STA z konsolami za rozkazy",
+  "author": "kbender, sciagi rozkazów - Jaxa",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0"
+  "packs": [
+    {
+      "label": "STA-Bridge",
+      "entity": "Scene",
+      "name": "sta-bridge",
+      "path": "packs/sta-bridge.db",
+      "module": "sta-bridge"
+      }
+  ]
+}
