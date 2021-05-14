@@ -7,5 +7,14 @@
   "minimumCoreVersion": "0.5.0",
   "url": "https://github.com/kbender84/sta-bridge",
   "download": "hhttps://github.com/kbender84/sta-bridge/releases/tag/1.05.zip",
-  "manifest": "https://raw.githubusercontent.com/kbender84/sta-bridge/1.05/module.json"
+  "manifest": "https://raw.githubusercontent.com/kbender84/sta-bridge/1.05/module.json",
+   "packs": [
+    {
+      "label": "STA-Bridge",
+      "entity": "Scene",
+      "name": "sta-bridge",
+      "path": "packs/sta-bridge.db",
+      "module": "sta-bridge"
+      }
+  ]
 }
