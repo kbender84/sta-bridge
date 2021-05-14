@@ -4,14 +4,5 @@
   "description": "Mostek statku kosmicznego dla gry STA z konsolami za rozkazy",
   "author": "kbender, sciagi rozkazów - Jaxa",
   "version": "0.0.1",
-  "minimumCoreVersion": "0.6.0",
- "packs": [
-    {
-      "label": "STA-Bridge",
-      "entity": "Scene",
-      "name": "sta-bridge",
-      "path": "packs/sta-bridge.db",
-      "module": "sta-bridge"
-      }
-  ]
+  "minimumCoreVersion": "0.6.0"
 }
