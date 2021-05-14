@@ -3,11 +3,11 @@
   "title": "Star Trek Adventures bridge scene",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "kbender, Jaxa",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "minimumCoreVersion": "0.5.0",
   "url": "https://github.com/kbender84/sta-bridge",
-  "download": "https://github.com/kbender84/sta-bridge/releases/tag/1.05.zip",
-  "manifest": "https://raw.githubusercontent.com/kbender84/sta-bridge/1.05/module.json",
+  "download": "https://github.com/kbender84/sta-bridge/releases/tag/1.06.zip",
+  "manifest": "https://raw.githubusercontent.com/kbender84/sta-bridge/1.06/module.json",
    "packs": [
     {
       "label": "STA-Bridge",
